@@ -2,6 +2,12 @@
     <h1>:globe_with_meridians: Dot Files  :globe_with_meridians:</h1>
     <h3>My personal Arch linux configuration files </h3>
 </div>
+
+<div align="center">
+![GitHub last commit](https://img.shields.io/github/last-commit/dulcean/DulceanDotfiles?display_timestamp=author&style=for-the-badge&logoColor=%23f6784f&color=%23f6784f)
+
+</div>
+
 <div align="center">
 
 ![](https://github.com/dulcean/DulceanDotfiles/raw/main/gifs/makima.gif)
