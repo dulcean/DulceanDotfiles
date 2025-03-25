@@ -1,6 +1,6 @@
 <div align="center">
-    <h1>🐧 Dot Files  🐧</h1>
-    <h3>🍙 My personal Arch linux configuration files 🍙</h3>
+    <h1>:archlinux: Dot Files  :archlinux:</h1>
+    <h3>My personal Arch linux configuration files </h3>
 </div>
 <div align="center">
 
@@ -8,7 +8,7 @@
 </div>
 
 # Details:
-
+<div align="center">
 | Class | Tool |
 ------|------
 | OS                 |   [Arch](https://archlinux.org/) :sushi:
@@ -20,5 +20,5 @@
 | Status Bar         |   [Hyprpanel](https://hyprpanel.com/) :hammer_and_pick:
 | Launcher           |   [Fuzzel](https://codeberg.org/dnkl/fuzzel) :rocket:
 | IDE                |   [Neovim](https://neovim.io/) :computer:
-
+</div>
 
