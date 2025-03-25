@@ -1,10 +1,12 @@
 <div align="center">
-    <h1>:globe_with_meridians: Dot Files  :globe_with_meridians:</h1>
+    <h1>:small_red_triangle_down: Dot Files  :small_red_triangle:</h1>
     <h3>My personal Arch linux configuration files </h3>
 </div>
 
 <div align="center">
-![GitHub last commit](https://img.shields.io/github/last-commit/dulcean/DulceanDotfiles?display_timestamp=author&style=for-the-badge&logoColor=%23f6784f&color=%23f6784f)
+
+![](https://img.shields.io/github/last-commit/dulcean/DulceanDotfiles?display_timestamp=author&style=for-the-badge&logoColor=%23f6784f&color=%23ff4100)
+![GitHub repo size](https://img.shields.io/github/repo-size/dulcean/DulceanDotfiles?style=for-the-badge&color=%23f44336)
 
 </div>
 
