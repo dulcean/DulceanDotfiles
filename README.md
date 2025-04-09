@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![](https://github.com/dulcean/DulceanDotfiles/raw/main/gifs/makima.gif)
+![](https://github.com/dulcean/DulceanDotfiles/raw/main/gifs/alucard.gif)
 </div>
 
 <div align="center">
